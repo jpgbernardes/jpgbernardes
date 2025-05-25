@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joao Paulo Giacomini Bernardes and I am physician (Interventional Radiology), living in Brasília - Brazil.
 - 👀 I’m interested in code for helping health care system staff and patients.
-- 🌱 I’m currently learning Python, Django , HTML, Javascript, React and libraries (Leafleft, FullCallendar, Pandas, Matplotlib, etc).
+- 🌱 I’m currently learning Nextjs,Typescript, Supabase, Python, Django , HTML, Javascript, React and libraries (Leafleft, FullCallendar, Pandas, Matplotlib, etc).
 - 💞️ I’m looking to collaborate on projects and help people (users and health care staff) to gain time to spend with more humanistic interactions! This is the primary endpoint but secondary I am looking for bring efficiency and safety for all the environment.
 - 📫 How to reach me : jpgbernardes@yahoo.com.br
